@@ -97,13 +97,13 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=juanmorenaso15&show_icons=true&theme=default&title_color=6BAED6&icon_color=89C4E1&text_color=4A90D9&border_color=B3D9FF&bg_color=F0F8FF&hide_border=false&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=juanmorenaso15&show_icons=true&theme=default&title_color=6BAED6&icon_color=89C4E1&text_color=4A90D9&border_color=B3D9FF&bg_color=F0F8FF&hide_border=false&count_private=true&locale=es"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmorenaso15&layout=compact&theme=default&title_color=6BAED6&text_color=4A90D9&border_color=B3D9FF&bg_color=F0F8FF&hide_border=false"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmorenaso15&layout=compact&theme=default&title_color=6BAED6&text_color=4A90D9&border_color=B3D9FF&bg_color=F0F8FF&hide_border=false&locale=es"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=juanmorenaso15&theme=default&background=F0F8FF&border=B3D9FF&ring=6BAED6&fire=89C4E1&currStreakNum=4A90D9&sideNums=4A90D9&currStreakLabel=6BAED6&sideLabels=6BAED6&dates=89C4E1" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=juanmorenaso15&theme=default&background=F0F8FF&border=B3D9FF&ring=6BAED6&fire=89C4E1&currStreakNum=4A90D9&sideNums=4A90D9&currStreakLabel=6BAED6&sideLabels=6BAED6&dates=89C4E1&locale=es" alt="Racha de GitHub"/>
 
 </div>
 
