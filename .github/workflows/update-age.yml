@@ -7,8 +7,11 @@
 name: 🎂 Actualizar Edad Automáticamente
 
 on:
+  # Se ejecuta el 26 de diciembre a las 00:05 UTC cada año
   schedule:
     - cron: "5 0 26 12 *"
+
+  # También se puede ejecutar manualmente desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
@@ -18,9 +21,11 @@ jobs:
       contents: write
 
     steps:
+      # 1. Descarga el repositorio
       - name: 📥 Checkout del repositorio
         uses: actions/checkout@v4
 
+      # 2. Calcula la nueva edad y actualiza el README
       - name: 🔢 Calcular y actualizar edad
         run: |
           python3 - <<'EOF'
@@ -30,6 +35,7 @@ jobs:
           BIRTH_DATE = date(2007, 12, 26)
           today      = date.today()
 
+          # Calcula edad exacta
           age = today.year - BIRTH_DATE.year
           if (today.month, today.day) < (BIRTH_DATE.month, BIRTH_DATE.day):
               age -= 1
@@ -38,15 +44,19 @@ jobs:
           print(f"🎂 Fecha nac.   : {BIRTH_DATE}")
           print(f"🔢 Edad nueva   : {age} años")
 
+          # Lee el README
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
+          # Actualiza el badge de edad en shields.io
+          # Patrón: Edad-<número>_años
           new_content = re.sub(
               r"(Edad-)\d+(_a%C3%B1os)",
               rf"\g<1>{age}\2",
               content
           )
 
+          # Actualiza el bloque YAML de "Sobre mí"
           new_content = re.sub(
               r"(Edad\s*:\s*)\d+( años.*)",
               rf"\g<1>{age}\2",
@@ -59,6 +69,7 @@ jobs:
           print("✅ README.md actualizado correctamente.")
           EOF
 
+      # 3. Hace commit y push solo si hubo cambios
       - name: 💾 Commit y push de la actualización
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
