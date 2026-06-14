@@ -12,7 +12,7 @@
 
 <!-- NOMBRE -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6BAED6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Jos%C3%A9+Moreno+%F0%9F%91%8B;Junior+Developer+%7C+Aprendiz+SENA;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6BAED6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Jos%C3%A9+Moreno+%F0%9F%91%8B;Junior+Developer+%7C+Aprendiz+SENA;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/>
 </h1>
 
 <!-- BADGES PERSONALES -->
@@ -34,25 +34,24 @@
 
 </div>
 
-## 👤 Sobre mí
+## Sobre mí
 
 ```yaml
 Nombre    : Juan José Moreno Benavides
-Edad      : 18 años  # Actualizado automáticamente cada 26 de diciembre
+Edad      : 18 años
 Perfil    : Junior Developer
 Formación : Aprendiz SENA
 País      : Colombia 🇨🇴
-Actitud   : Con muchas ganas de aprender cada día ✨
+Actitud   : Con muchas ganas de aprender cada día 
 Estado    : Aprendiendo · Construyendo · Creciendo
 ```
 
-> 💬 *"No importa dónde empiezas, sino hacia dónde vas y con qué actitud llegas."*
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
-### ⚙️ Backend
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-C5E0F0?style=for-the-badge&logo=openjdk&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/Spring_Boot-B3D9FF?style=for-the-badge&logo=springboot&logoColor=2C6E9A"/>
@@ -62,7 +61,7 @@ Estado    : Aprendiendo · Construyendo · Creciendo
   <img src="https://img.shields.io/badge/REST_API-89C4E1?style=for-the-badge&logo=fastapi&logoColor=2C6E9A"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-C5E0F0?style=for-the-badge&logo=angular&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/TypeScript-B3D9FF?style=for-the-badge&logo=typescript&logoColor=2C6E9A"/>
@@ -71,20 +70,19 @@ Estado    : Aprendiendo · Construyendo · Creciendo
   <img src="https://img.shields.io/badge/JavaScript-B3D9FF?style=for-the-badge&logo=javascript&logoColor=2C6E9A"/>
 </p>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-C5E0F0?style=for-the-badge&logo=mysql&logoColor=2C6E9A"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-B3D9FF?style=for-the-badge&logo=postgresql&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/SQL-A0C4E8?style=for-the-badge&logo=database&logoColor=2C6E9A"/>
 </p>
 
-### 🌐 Idiomas
+### Idiomas
 <p align="left">
   <img src="https://img.shields.io/badge/Español-Nativo-6BAED6?style=for-the-badge&logo=speakerdeck&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inglés-B1-89C4E1?style=for-the-badge&logo=duolingo&logoColor=white"/>
 </p>
 
-### 🔧 Herramientas y Control de Versiones
+### Herramientas y Control de Versiones
 <p align="left">
   <img src="https://img.shields.io/badge/Git-C5E0F0?style=for-the-badge&logo=git&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/GitHub-B3D9FF?style=for-the-badge&logo=github&logoColor=2C6E9A"/>
@@ -95,7 +93,7 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -111,7 +109,7 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 ---
 
-## 🌱 Lo que estoy aprendiendo ahora
+## Lo que estoy aprendiendo ahora
 
 ```
 🔵  Arquitectura de microservicios con Spring Boot
@@ -124,14 +122,14 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 ---
 
-## 🎯 Próximos objetivos
+## Próximos objetivos
 
-- [ ] 🚀 Completar mi formación como Tecnólogo en SENA
-- [ ] 🛡️ Implementar autenticación JWT en proyectos propios
-- [ ] 🐳 Aprender Docker y desplegar mis primeras apps
-- [ ] ☁️ Explorar servicios en la nube (AWS o Azure)
-- [ ] 🤝 Contribuir a proyectos Open Source
-- [ ] 📈 Crecer como desarrollador Full Stack
+- [ ] Completar mi formación como Tecnólogo en SENA
+- [ ] Implementar autenticación JWT en proyectos propios
+- [ ] Aprender Docker y desplegar mis primeras apps
+- [ ] Explorar servicios en la nube (AWS o Azure)
+- [ ] Contribuir a proyectos Open Source
+- [ ] Crecer como desarrollador Full Stack
 
 ---
 
