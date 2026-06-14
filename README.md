@@ -12,7 +12,7 @@
 
 <!-- NOMBRE -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6BAED6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Jos%C3%A9+Moreno+%F0%9F%91%8B;Junior+Developer+%7C+Aprendiz+SENA;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6BAED6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Jose+Moreno;Junior+Developer+%7C+Aprendiz+SENA;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/>
 </h1>
 
 <!-- BADGES PERSONALES -->
