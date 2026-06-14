@@ -133,7 +133,7 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 ---
 
-## 🤝 Conéctate conmigo
+## Conéctate conmigo
 
 <div align="center">
 
