@@ -151,11 +151,7 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 <br/>
 
-*"El conocimiento que no se comparte se pierde — el que se practica, transforma."*
-
 <br/>
-
-<img src="https://img.shields.io/badge/Hecho_con-💙_y_ganas_de_aprender-B3D9FF?style=flat-square&labelColor=E8F4FD&color=6BAED6"/>
 
 <br/><br/>
 
