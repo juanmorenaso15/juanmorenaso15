@@ -86,9 +86,9 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 <p align="left">
   <img src="https://img.shields.io/badge/Git-C5E0F0?style=for-the-badge&logo=git&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/GitHub-B3D9FF?style=for-the-badge&logo=github&logoColor=2C6E9A"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-A0C4E8?style=for-the-badge&logo=intellijidea&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/VS_Code-C5E0F0?style=for-the-badge&logo=visualstudiocode&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/Postman-B3D9FF?style=for-the-badge&logo=postman&logoColor=2C6E9A"/>
+  <img src="https://img.shields.io/badge/Hoppscotch-A0C4E8?style=for-the-badge&logo=hoppscotch&logoColor=2C6E9A"/>
 </p>
 
 ---
