@@ -53,12 +53,12 @@ Estado    : Aprendiendo · Construyendo · Creciendo
 
 ### Backend
 <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-C5E0F0?style=for-the-badge&logo=openjdk&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/Spring_Boot-B3D9FF?style=for-the-badge&logo=springboot&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/Hibernate-A0C4E8?style=for-the-badge&logo=hibernate&logoColor=2C6E9A"/>
-  <img src="https://img.shields.io/badge/JPA-C5E0F0?style=for-the-badge&logo=java&logoColor=2C6E9A"/>
+  <img src="https://img.shields.io/badge/Python-89C4E1?style=for-the-badge&logo=python&logoColor=2C6E9A"/>
   <img src="https://img.shields.io/badge/Maven-B3D9FF?style=for-the-badge&logo=apachemaven&logoColor=2C6E9A"/>
-  <img src="https://img.shields.io/badge/REST_API-89C4E1?style=for-the-badge&logo=fastapi&logoColor=2C6E9A"/>
 </p>
 
 ### Frontend
